@@ -1,0 +1,3 @@
+[submodule "live2d"]
+	path = live2d
+	url = git@gitee.com:yonghang_qin/live2d.git
